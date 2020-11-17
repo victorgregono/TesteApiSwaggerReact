@@ -1,0 +1,48 @@
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.deps.json
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfo.cs
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csproj.CopyComplete
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.dll
+C:\Users\victo\source\repos\ProjetoApi\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\JOGOS\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.deps.json
+C:\JOGOS\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\JOGOS\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\JOGOS\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\JOGOS\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\JOGOS\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csprojAssemblyReference.cache
+C:\JOGOS\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfoInputs.cache
+C:\JOGOS\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfo.cs
+C:\JOGOS\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csproj.CoreCompileInputs.cache
+C:\JOGOS\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csproj.CopyComplete
+C:\JOGOS\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.dll
+C:\JOGOS\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.deps.json
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csprojAssemblyReference.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfo.cs
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csproj.CopyComplete
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.deps.json
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csprojAssemblyReference.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfoInputs.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfo.cs
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csproj.CoreCompileInputs.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csproj.CopyComplete
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.pdb

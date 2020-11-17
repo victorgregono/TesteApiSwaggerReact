@@ -1,0 +1,36 @@
+C:\Users\victo\source\repos\ProjetoApi\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.deps.json
+C:\Users\victo\source\repos\ProjetoApi\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\Users\victo\source\repos\ProjetoApi\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\Users\victo\source\repos\ProjetoApi\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ProjetoApi\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.AssemblyInfo.cs
+C:\Users\victo\source\repos\ProjetoApi\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ProjetoApi\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.dll
+C:\Users\victo\source\repos\ProjetoApi\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\Users\victo\source\repos\ProjetoApi\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.csprojAssemblyReference.cache
+C:\JOGOS\TesteApiNetCore\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.deps.json
+C:\JOGOS\TesteApiNetCore\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\JOGOS\TesteApiNetCore\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\JOGOS\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.csprojAssemblyReference.cache
+C:\JOGOS\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.AssemblyInfoInputs.cache
+C:\JOGOS\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.AssemblyInfo.cs
+C:\JOGOS\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.csproj.CoreCompileInputs.cache
+C:\JOGOS\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.dll
+C:\JOGOS\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.deps.json
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.csprojAssemblyReference.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.AssemblyInfoInputs.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.AssemblyInfo.cs
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.csproj.CoreCompileInputs.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.deps.json
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryModells\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.csprojAssemblyReference.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.AssemblyInfoInputs.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.AssemblyInfo.cs
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.csproj.CoreCompileInputs.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\LibraryModells\obj\Debug\netcoreapp3.1\LibraryModells.pdb

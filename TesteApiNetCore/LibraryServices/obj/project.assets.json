@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LibraryModells/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LibraryModells.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryModells.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryModells/1.0.0": {
+      "type": "project",
+      "path": "../LibraryModells/LibraryModells.csproj",
+      "msbuildProject": "../LibraryModells/LibraryModells.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "LibraryModells >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\victo\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\JOGOS\\Nova pasta\\TesteApiSwaggerReact\\TesteApiNetCore\\TesteApiNetCore\\LibraryServices\\LibraryServices.csproj",
+      "projectName": "LibraryServices",
+      "projectPath": "C:\\JOGOS\\Nova pasta\\TesteApiSwaggerReact\\TesteApiNetCore\\TesteApiNetCore\\LibraryServices\\LibraryServices.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "C:\\JOGOS\\Nova pasta\\TesteApiSwaggerReact\\TesteApiNetCore\\TesteApiNetCore\\LibraryServices\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\JOGOS\\Nova pasta\\TesteApiSwaggerReact\\TesteApiNetCore\\TesteApiNetCore\\LibraryModells\\LibraryModells.csproj": {
+              "projectPath": "C:\\JOGOS\\Nova pasta\\TesteApiSwaggerReact\\TesteApiNetCore\\TesteApiNetCore\\LibraryModells\\LibraryModells.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

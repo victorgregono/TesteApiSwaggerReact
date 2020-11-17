@@ -1,0 +1,180 @@
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.exe
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.deps.json
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.runtimeconfig.json
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.runtimeconfig.dev.json
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.pdb
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.AssemblyInfo.cs
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoApi.StaticWebAssets.Manifest.cache
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoApi.StaticWebAssets.xml
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoApi.styles.css
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.RazorTargetAssemblyInfo.cache
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csproj.CopyComplete
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.pdb
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.genruntimeconfig.cache
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.xml
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryRepositores.dll
+C:\Users\victo\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryRepositores.pdb
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.exe
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.deps.json
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.runtimeconfig.json
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.runtimeconfig.dev.json
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.pdb
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.xml
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryRepositores.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryRepositores.pdb
+C:\JOGOS\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csprojAssemblyReference.cache
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.AssemblyInfoInputs.cache
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.AssemblyInfo.cs
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csproj.CoreCompileInputs.cache
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoApi.StaticWebAssets.Manifest.cache
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoApi.StaticWebAssets.xml
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoApi.styles.css
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.RazorTargetAssemblyInfo.cache
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csproj.CopyComplete
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.dll
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.pdb
+C:\JOGOS\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.genruntimeconfig.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.exe
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.deps.json
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.runtimeconfig.json
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.runtimeconfig.dev.json
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.pdb
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.xml
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryRepositores.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryRepositores.pdb
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csprojAssemblyReference.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.AssemblyInfoInputs.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.AssemblyInfo.cs
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.RazorTargetAssemblyInfo.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csproj.CopyComplete
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoApi.StaticWebAssets.Manifest.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoApi.StaticWebAssets.xml
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.pdb
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.genruntimeconfig.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csproj.CoreCompileInputs.cache
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\90004757\Documents\Visual Studio 2019\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.exe
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.deps.json
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.runtimeconfig.json
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.runtimeconfig.dev.json
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.pdb
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\ProjetoApi.xml
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryModells.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryRepositores.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryModells.pdb
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryRepositores.pdb
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csprojAssemblyReference.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.AssemblyInfoInputs.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.AssemblyInfo.cs
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csproj.CoreCompileInputs.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoApi.StaticWebAssets.Manifest.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoApi.StaticWebAssets.xml
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoApi.styles.css
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.RazorTargetAssemblyInfo.cache
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.csproj.CopyComplete
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.dll
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.pdb
+C:\JOGOS\Nova pasta\TesteApiSwaggerReact\TesteApiNetCore\TesteApiNetCore\ProjetoApi\obj\Debug\netcoreapp3.1\ProjetoApi.genruntimeconfig.cache
